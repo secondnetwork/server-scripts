@@ -7,5 +7,5 @@ If Dockge is not already installed or if the user chooses to update it, the scri
 ## How to use?
 
 ```bash
-bash -c "$(wget -qLO - https://raw.githubusercontent.com/secondnetwork/server-scripts/main/install-or-update-dockge/run.sh)"
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/secondnetwork/server-scripts/refs/heads/main/install-or-update-dockge/install-or-update-dockge.sh)"
 ```
